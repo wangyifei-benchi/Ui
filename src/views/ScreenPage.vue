@@ -4,6 +4,9 @@
       <div>
         <img :src="headerSrc" alt="">
       </div>
+      <span class="logo">
+        <img :src="logoSrc" alt="" />
+      </span>
       <span class="title">电商平台实时监控系统</span>
       <div class="title-right">
         <img :src="themeSrc" class="qiehuan" @click="handleChangeTheme">
