@@ -2,7 +2,7 @@
 # 数据可视化大屏
 ## 介绍：
 
-### Echarts+vue+pinia(全屏切换--联动效果)+WebSocket（实时动态）
+### Echarts+vue+pinia（主题切换）+WebSocket（实时动态）+(全屏切换--联动效果)
 
 ## 安装依赖
 ```
