@@ -4,13 +4,9 @@
       <div>
         <img :src="headerSrc" alt="">
       </div>
-      <span class="logo">
-        <img :src="logoSrc" alt="" />
-      </span>
       <span class="title">电商平台实时监控系统</span>
       <div class="title-right">
         <img :src="themeSrc" class="qiehuan" @click="handleChangeTheme">
-        <span class="datetime">2049-01-01 00:00:00</span>
       </div>
     </header>
     <div class="screen-body">
